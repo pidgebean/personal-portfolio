@@ -1,0 +1,31 @@
+.navbar{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    margin-left: 50px;
+}
+
+.navbar h2{
+    font-size: 50px;
+    font-weight: 700;
+    width: 80px;
+}
+
+.navbar span{
+    font-size: 20px;
+}
+
+.navbar p{
+    margin-bottom: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.navbar button{
+    background-color: transparent;
+    color: white;
+    border: none;
+}

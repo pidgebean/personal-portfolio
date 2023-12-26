@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.body{
+  display: flex;
+  flex-direction: row;
+  background-color: black;
+  color: white;
+  height: 1500px;
+}
+
+.page-sections{
+  display: flex;
+  flex-direction: column;
+}
